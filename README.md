@@ -1,7 +1,7 @@
 ### Hi there my name is Alex Tavares. 👋
 
-- 🔭 I’m currently working on Data Science and Artificial Inteligence.
-- 🌱 I’m currently learning ...
+- 🖥️ I’m currently working on Data Science and Artificial Inteligence.
+
 
 
 

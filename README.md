@@ -6,7 +6,10 @@
 - I have bachelor's degree in mathematics.
 - I have degree in information technology.
 <div>
-  In my doctoral research, I have been applying artificial intelligence to predict parameters of the intense rainfall equation across the entire region of Brazil, through the Caelus project, which will soon have its code open for contributions.<br>
+  In my doctoral research, I have been applying artificial intelligence to predict parameters of the intense rainfall equation across the entire region of Brazil, through the Caelus project, which will soon have its code open for contributions.
+<div>
+  <br>
+  <br>
 </div>
 
  

@@ -7,9 +7,9 @@
   In my doctoral research, I have been applying artificial intelligence to predict parameters of the intense rainfall equation across the entire region of Brazil, through the Caelus project, which will soon have its code open for contributions.<br>
 </div>
 
- <br>
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altasilva\&rank_icon=percentile\&theme=merko)
- <br>
+ 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>

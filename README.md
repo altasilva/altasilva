@@ -3,6 +3,7 @@
 - I’m currently working on Data Science and Artificial Inteligence.
 - I'm Pursuing doctoral in Modeling e Tecnology for Environmental Applied to Water Resources.
 - I have master's degree in Computational Modeling in Science and Technology.
+- I have specialization in computers network.
 - I have bachelor's degree in mathematics.
 - I have degree in information technology.
 <div>

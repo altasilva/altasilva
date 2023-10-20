@@ -1,8 +1,8 @@
 ### Hi there my name is Alex Tavares. 👋
 
-- 🖥️ I’m currently working on Data Science and Artificial Inteligence.
-- 👨🏽‍🏫 I'm Pursuing doctoral in Modeling e tecnology for environmental applied to water resources.
-- ➕ I'm master degree in computational modeling in science and technology.
+- I’m currently working on Data Science and Artificial Inteligence.
+- I'm Pursuing doctoral in Modeling e tecnology for environmental applied to water resources.
+- I'm master degree in computational modeling in science and technology.
 
  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api?username=altasilva&include=all_commits-true)](https://github.com/altasilva/github-readme-stats) -->
 

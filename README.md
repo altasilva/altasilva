@@ -9,6 +9,7 @@
 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altasilva\&rank_icon=percentile\&theme=merko)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altasilva\&theme=merko)
  
 
 <div  align="center"> 

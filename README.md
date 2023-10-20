@@ -4,7 +4,9 @@
 - I'm Pursuing doctoral in Modeling e tecnology for environmental applied to water resources.
 - I'm master degree in computational modeling in science and technology.
 
+<div>
   In my doctoral research, I have been applying artificial intelligence to predict parameters of the intense rainfall equation across the entire region of Brazil, through the Caelus project, which will soon have its code open for contributions.
+</div>
 
  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api?username=altasilva&include=all_commits-true)](https://github.com/altasilva/github-readme-stats) -->
 

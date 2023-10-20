@@ -24,12 +24,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
    
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=altasilva&repo=altasilva&theme=react)](https://github.com/altasilva/altasilva)
-
-
 </br>  <a href="https://www.linkedin.com/in/altasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/altasilva/altasilva/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 

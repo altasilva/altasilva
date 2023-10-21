@@ -12,13 +12,27 @@ and I have degree in Information Technology.
 
 <div>
   <h3>Skills:</h3>
-- Python
-- Pandas
-- NumPy
-- Keras
-- Machine Learning
-- Artificial Intelligence
-- QGIS.
+</div>
+<div>
+  - Python
+</div>
+<div>
+  - Pandas
+</div>
+<div>
+  - NumPy
+</div>
+<div>
+  - Keras
+</div>
+<div>
+  - Machine Learning
+</div>
+<div>
+  - Artificial Intelligence
+</div>
+<div>
+  - QGIS.
 </div>
 
 <div>

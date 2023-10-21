@@ -5,6 +5,8 @@
 I’m currently working on Data Science and Artificial Inteligence, I'm Pursuing doctoral in Modeling e Tecnology for Environmental Applied to Water Resources,
 I have master's degree in Computational Modeling in Science and Technology, I have specialization in computers network, I have bachelor's degree in mathematics,
 and I have degree in information technology.
+  <br> <br>
+  In my doctoral research, I have been applying artificial intelligence to predict parameters of the intense rainfall equation across the entire region of Brazil, through the Caelus project, which will soon have its code open for contributions.
 </div>
 
 
@@ -19,7 +21,6 @@ and I have degree in information technology.
 - QGIS.
 </div>
 
-<br>  In my doctoral research, I have been applying artificial intelligence to predict parameters of the intense rainfall equation across the entire region of Brazil, through the Caelus project, which will soon have its code open for contributions.
 <div>
   <br>
   <br>

@@ -32,7 +32,7 @@ and I have degree in Information Technology.
   - Artificial Intelligence
 </div>
 <div>
-  - QGIS.
+  - QGIS
 </div>
 
 <div>
